@@ -1,13 +1,2 @@
 # Growth Mindset Notes
-## Defintion
-Growth mindset is the *fundamental abilites* that can be developed with perservance and effort.
-<ol>
-  <li>Fixed Mindset</li>
-<ul>
-  <li> Fails to reach full potential</li>
-  </ul>
-  <li>Growth Mindset</li>
-<ul>
-  <li> Achieves more and higher goals</li>
-  </ul>
-</ol>
+Growth mindset in my words is **Never be afraid to have _constructive criticism_.
