@@ -11,6 +11,6 @@ Headers are used with hashtags.
 Emphasis is used with asteriks and underscores.
   
 There are two types of lists ordered and unordered.
-Unordered lists use bullet points,etc.
+Unordered lists use bullet points,etc.<br>
 Order lists use numbers.
 
