@@ -6,7 +6,7 @@ Growth mindset in my words is **Never be afraid to take _constructive criticism_
   Apply criticism to my work<br>
   Hello I'm Kiara
   
-https://kaysmall19.github.io/reading-notes/
+https://kaysmall19.github.io/reading-notes102/
 
 https://kaysmall19.github.io/reading-notes/revisions-cloud
 
